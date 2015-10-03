@@ -1,0 +1,4 @@
+Read Me:
+Compile and Run use command line, take BFS_Solver as an example:
+Compile:  javac BFS_Solver/*.java
+Run:      java BFS_Solver.SolvePuzzle_BFS
